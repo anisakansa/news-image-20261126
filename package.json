@@ -1,0 +1,1 @@
+{"description":"Sum up 26 November's world news in one image — a newspaper front page drawn by a deterministic Node program.","license":"MIT","main":"main.ts","name":"news-image-20261126","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
